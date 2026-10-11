@@ -1,56 +1,108 @@
-<div align="center">
+> BOOT SEQUENCE INITIATED...
+> ██████████████████████████████ 100%
+>
+> [✓] Neural interface ................ ONLINE
+> [✓] Full stack engine ............... ONLINE
+> [✓] WordPress reactor ............... STABLE
+> [✓] Gutenberg block forge ........... ARMED
+> [✓] Security protocols .............. ZERO TRUST
+> [!] Coffee reserves ................. CRITICAL — REFILLING ☕
+>
+> IDENTITY CONFIRMED. WELCOME BACK.
 
-  <!-- HUD TYPING BANNER -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=SYSTEM.INIT(%22J.A.R.V.I.S.+PROTOCOL%22);HELLO%2C+OPERATOR.+SYSTEMS+ONLINE.;FULL-STACK+DEVELOPER+%7C%7C+AI+ARCHITECT;ACCEPTING+HIGH-PRIORITY+DIRECTIVES..." alt="Typing SVG" />
-  </a>
+⚡ SYSTEM.ONLINE — Aryan Takawane
+🛰️ Full Stack & WordPress Developer | Pune, India 🇮🇳
+📊 CORE ● ONLINE  ·  🎯 STATUS OPEN TO OPPORTUNITIES  ·  🛡️ SECURITY ZERO TRUST
+"Good evening. All systems are operational. Your developer is ready to build."
 
-  <br/><br/>
 
-  <!-- TONY STARK VISUAL FEED -->
-  <img src="https://media1.tenor.com/m/8o0ymmiJ9BgAAAAC/sealyx-tony-stark.gif" width="520" alt="Tony Stark Stark Industries" style="border-radius: 8px; border: 2px solid #00E5FF;" />
+🧠 > whoami
++ Full stack developer building fast, accessible, and scalable web systems
++ Fluent in modern JavaScript, React, and the WordPress & PHP ecosystem
++ Ships clean architecture, strict coding standards, and secure code by default
+- Known weakness: cannot resist one more refactor
 
-  <br/><br/>
+<?php
+$operator = [
+    'name'     => 'Aryan Takawane',
+    'base'     => 'Pune, India',
+    'class'    => 'Full Stack & WordPress Developer',
+    'mission'  => 'Build web experiences that load fast and last long',
+    'motto'    => 'Code is poetry. Write it with care.',
+    'status'   => 'ONLINE',
+];
 
-  <!-- SUB-TITLE TECH ARRAY -->
-  <code>⚡ <b>REACT</b> • <b>NEXT.JS</b> • <b>FASTAPI</b> • <b>PYTHON</b> • <b>DOCKER</b> ⚡</code>
 
-  <br/><br/>
 
-  <!-- SYSTEM TELEMETRY SHIELDS -->
-  <img src="https://img.shields.io/badge/ARC_REACTOR-100%25_ONLINE-00E5FF?style=for-the-badge&logo=electron&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_DIRECTIVES-00F5D4?style=for-the-badge&logo=target&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/DEFENSE-ZERO_TRUST-FF007F?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/NEURAL_LINK-ACTIVE-7928CA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=0d1117" />
+⚙️ > load --arsenal
+⚛️ REACT   ▲ NEXT.JS   🐘 PHP   🧩 WORDPRESS   🟢 NODE.JS   🍃 MONGODB   🎨 TAILWIND CSS
+System
+Modules
+🖥️ Frontend
+React · Next.js · Tailwind CSS · JavaScript
+🧩 WordPress
+Gutenberg Blocks · Full Site Editing · REST API · Plugin API
+🔧 Backend
+PHP · Node.js · Express · MongoDB
+🛡️ Quality Control
+PHPCS · PHPUnit · ESLint · Jest · WP-CLI
+🚀 Deployment
+Git · GitHub Actions · Composer · Vercel
 
-  <br/><br/>
 
-  <!-- SECURE COMMS & TRANSMISSION ARRAY -->
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/COMM_LINK-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/HUD_INTERFACE-PORTFOLIO-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/DIRECT_COMMS-ENCRYPTED-FF0055?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/DATABANK-GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+📡 > scan --active-missions
+mission_01: Custom Gutenberg blocks with Block Editor APIs and React
+mission_02: Headless WordPress frontends powered by Next.js
+mission_03: Enterprise performance and Core Web Vitals tuning
+mission_04: Secure coding with nonces, sanitization, and escaping
+mission_05: Accessibility that meets WCAG 2.1 AA standards
 
-</div>
 
-<br/>
 
----
+🚀 > deploy --featured-projects
+Project
+Mission Brief
+Tech Stack
+Status
+🧩 wp-event-hub
+Event management plugin with custom post types, REST routes, and a React admin panel
+PHP · WordPress · React
+🟡 BUILDING
+🧱 gutenberg-block-kit
+Reusable, accessible block library with full theme.json support
+React · PHP · Block Editor APIs
+🟡 BUILDING
+⚡ headless-wp-next
+SEO-friendly Next.js frontend driven by headless WordPress
+Next.js · WP REST API · Tailwind CSS
+🟡 BUILDING
+✅ todo-app-fullstack
+Full stack app with authentication, state management, and CRUD operations
+Node.js · Express · React · MongoDB
+🟢 ONLINE
 
-### `/// [DIAGNOSTIC_TELEMETRY]`
 
-```bash
-> INITIATING STARK_OS v4.2...
-> USER DETECTED       : Aryan Takawane
-> CLASSIFICATION      : Full-Stack Architect // Cyber Systems Developer
-> ARC REACTOR POWER   : 1.21 GW [NOMINAL]
-> DEFENSE PROTOCOL    : Zero Trust // Quantum Encrypted
-> MISSION DIRECTIVE   : Engineering scalable high-velocity applications.
+🛡️ > run --protocols
+[PROTOCOL 01]  Validate every input. Escape every output.
+[PROTOCOL 02]  Write code your future self will thank you for.
+[PROTOCOL 03]  Accessibility is a feature, not an afterthought.
+[PROTOCOL 04]  Performance is measured, never assumed.
+[PROTOCOL 05]  Contribute back to open source.
+
+
+
+📊 > telemetry --live
+> FETCHING TELEMETRY FROM GITHUB SATELLITES...
+> SIGNAL LOCKED. RENDERING STATS BELOW_
+
+
+
+📞 > open --comms
+🔗 LINKEDIN  ·  ▲ PORTFOLIO  ·  🐙 GITHUB
+
+
+> ALL SYSTEMS NOMINAL.
+> STATUS: OPEN TO OPPORTUNITIES
+> AWAITING YOUR COMMAND_
+
+⚡ "The interface is ready. The code is clean. The next mission starts with you." ⚡
