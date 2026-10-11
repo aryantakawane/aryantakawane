@@ -8,25 +8,25 @@
   <b>🚀 Full-Stack Developer & AI Systems Engineer | 🎓 B.Tech in AI & Data Science | 🌐 Open-Source Enthusiast</b>
 </p>
 
-[![Status](https://img.shields.io/badge/STATUS-BUILDING%20%26%20SHIPPING-00F7FF?style=for-the-badge&labelColor=0D1117&color=7F00FF)](https://github.com/aryantakawane)
+[![Status](https://img.shields.io/badge/STATUS-SYSTEMS%20OPTIMAL-00F7FF?style=for-the-badge&labelColor=0D1117&color=7F00FF)](https://github.com/aryantakawane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryantakawane-813442419)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF)](https://aryantakawane.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantakawane100@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryantakawane)
 
-</div>
-
----
-
-## ⚡ Who am I?
-
-I'm **Aryan Takawane**, a full-stack engineer and AI specialist from **Pune, India**. From responsive frontend experiences to robust backend architectures and applied AI (LLMs, RAG pipelines, LangChain), I engineer complete web systems that scale effortlessly.
-
-<div align="center">
+<br/>
 
 <img src="assets/github_banner.jpg" alt="Cyberpunk Full-Stack & AI Architecture" width="100%" />
 
 </div>
+
+<p align="center">
+  <img src="assets/hud_divider.jpg" alt="HUD Telemetry Wave" width="100%" />
+</p>
+
+## ⚡ Who am I?
+
+I'm **Aryan Takawane**, a full-stack engineer and AI specialist from **Pune, India**. From responsive frontend experiences to robust backend architectures and applied AI (LLMs, RAG pipelines, LangChain), I engineer complete web systems that scale effortlessly.
 
 ```javascript
 // ✦ developer.config.js — neural runtime profile
@@ -51,6 +51,18 @@ const engineer = {
 
 export default engineer;
 ```
+
+---
+
+## 🧠 Neural & Cognitive Systems
+
+<p align="center">
+  <img src="assets/ai_neural_brain.jpg" alt="AI Neural Matrix & Server Grid" width="100%" />
+</p>
+
+- 🧬 **Vector Embeddings & Semantic Search:** Designing high-accuracy RAG architectures with pgvector and Pinecone.
+- 🤖 **Autonomous Tool-Calling Agents:** Engineering goal-driven agents using LangChain, LangGraph, and local/cloud LLMs.
+- ⚡ **Full-Stack AI Integration:** Embedding real-time intelligence directly into production web dashboards.
 
 ---
 
@@ -105,6 +117,10 @@ export default engineer;
 | **[movie-search-app](https://github.com/aryantakawane/movie-search-app)** | Dynamic search application with real-time API integrations, responsive UX, and client-side caching. | React, External REST APIs, CSS3 |
 
 ---
+
+<p align="center">
+  <img src="assets/hud_telemetry.jpg" alt="HUD Telemetry Network" width="100%" />
+</p>
 
 ## 🎯 Active Directives & Standards
 
