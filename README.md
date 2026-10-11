@@ -8,7 +8,7 @@
   <b>🚀 Full-Stack Developer & AI Systems Engineer | 🎓 B.Tech in AI & Data Science | 🌐 Open-Source Enthusiast</b>
 </p>
 
-[![Status](https://img.shields.io/badge/STATUS-SYSTEMS%20OPTIMAL-00F7FF?style=for-the-badge&labelColor=0D1117&color=7F00FF)](https://github.com/aryantakawane)
+[![Status](https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-00F7FF?style=for-the-badge&labelColor=0D1117&color=7F00FF)](https://github.com/aryantakawane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryantakawane-813442419)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF)](https://aryantakawane.vercel.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantakawane100@gmail.com)
@@ -26,7 +26,7 @@
 
 ## ⚡ Who am I?
 
-I'm **Aryan Takawane**, a full-stack engineer and AI specialist from **Pune, India**. From responsive frontend experiences to robust backend architectures and applied AI (LLMs, RAG pipelines, LangChain), I engineer complete web systems that scale effortlessly.
+I'm **Aryan Takawane**, a full-stack developer and AI systems engineer from **Pune, India**. I specialize in building fast, maintainable web systems and enterprise headless architectures with a focus on performance, WCAG accessibility, and clean developer experience.
 
 ```javascript
 // ✦ developer.config.js — neural runtime profile
@@ -45,11 +45,30 @@ const engineer = {
     devops:     ["AWS", "Docker", "Git / GitHub Actions", "CI/CD Pipelines"]
   },
 
-  philosophy:   "I don't just build pages — I engineer reliable, high-performance web systems.",
+  philosophy:   "I engineer complete, production-grade web systems from database design to deployment.",
   uptime:       "99.99% curiosity ☕"
 };
 
 export default engineer;
+```
+
+---
+
+## 🎯 What I'm Looking For
+
+- 💼 **Full-Time Engineering Roles & Associate SWE Positions:** Focused on Full-Stack (React/Node/Python), Headless CMS architectures, and enterprise WordPress engineering.
+- 🚀 **High-Impact Projects:** Scaling production web applications, optimizing Core Web Vitals, and integrating applied AI pipelines.
+- 🤝 **Open-Source Collaborations:** Contributing bug fixes, developer tooling, and documentation to the open web ecosystem.
+
+---
+
+## ⚡ Currently Building
+
+```text
+🚀 Flagship: Enterprise Headless WordPress & Gutenberg Block Toolkit
+├── 🧩 Custom Gutenberg Block Collection (@wordpress/scripts, React, theme.json)
+├── ⚡ Decoupled SSR Next.js Frontend consuming custom WP REST API endpoints
+└── 🛡️ Strict Enterprise Quality Layer (PHPCS with WPCS, PHPUnit, CI/CD automated linting)
 ```
 
 ---
@@ -60,7 +79,7 @@ export default engineer;
   <img src="assets/ai_neural_brain.jpg" alt="AI Neural Matrix & Server Grid" width="100%" />
 </p>
 
-- 🧬 **Vector Embeddings & Semantic Search:** Designing high-accuracy RAG architectures with pgvector and Pinecone.
+- 🧬 **Vector Embeddings & Semantic Search:** Designing high-accuracy RAG architectures with pgvector and LangChain.
 - 🤖 **Autonomous Tool-Calling Agents:** Engineering goal-driven agents using LangChain, LangGraph, and local/cloud LLMs.
 - ⚡ **Full-Stack AI Integration:** Embedding real-time intelligence directly into production web dashboards.
 
@@ -107,12 +126,10 @@ export default engineer;
 
 ## 🚀 Key Production & Featured Projects
 
-| Project | Focus & Highlights | Stack |
+| Project | Highlights & Problem Solved | Tech Stack |
 | :--- | :--- | :--- |
 | **Shreenivas Platform** *(Production)* | Solely built & deployed an end-to-end spiritual service platform with user authentication, appointment scheduling, payment handling, and admin control panels. | React, Node.js, REST APIs, Cloud Deployment |
 | **D2C E-Commerce Engine** | Full-scale e-commerce platform built from scratch with inventory control, cart & wishlist, secure checkout, reviews, and admin analytics dashboard. | Full-Stack Architecture, Node.js, MongoDB |
-| **[wp-decoupled](https://github.com/aryantakawane/wp-decoupled)** | Modern decoupled / headless WordPress architecture consuming custom REST APIs with high-performance React frontends. | React, WordPress REST API, JavaScript |
-| **[wp-rest-playground](https://github.com/aryantakawane/wp-rest-playground)** | Developer testing ground for custom WordPress REST endpoints, Custom Post Types (CPTs), taxonomy queries, and security nonces. | PHP, WordPress Plugin API |
 | **[todo-app-fullstack](https://github.com/aryantakawane/todo-app-fullstack)** | Production-grade web app featuring JWT authentication, state management, and optimized database queries. | Node.js, Express, React, MongoDB |
 | **[movie-search-app](https://github.com/aryantakawane/movie-search-app)** | Dynamic search application with real-time API integrations, responsive UX, and client-side caching. | React, External REST APIs, CSS3 |
 
@@ -122,12 +139,12 @@ export default engineer;
   <img src="assets/hud_telemetry.jpg" alt="HUD Telemetry Network" width="100%" />
 </p>
 
-## 🎯 Active Directives & Standards
+## 🎯 Engineering Directives & Standards
 
-- 🧠 **Applied AI in Web Platforms:** Integrating RAG document chat, LLM tool-calling agents, and semantic vector search into practical web applications.
 - ⚡ **Performance & Core Web Vitals:** Minimizing layout shifts, server-side response times, and bundle sizes for lightning-fast user interactions.
 - 🛡️ **Enterprise Security Standards:** Enforcing OWASP principles, strict data sanitization, parameterized queries, and secure session management.
 - ♿ **Inclusive Accessibility:** Building component libraries compliant with **WCAG 2.1 AA** standards.
+- 🧪 **Automated Testing:** Leveraging PHPUnit, Jest, and ESLint to ensure robust production reliability.
 
 ---
 
