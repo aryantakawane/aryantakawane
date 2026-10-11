@@ -1,157 +1,129 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=100&lines=Hi+I+am+Aryan+Takawane;Full+Stack+Developer;React.js+%7C+Node.js+%7C+MongoDB;Web+Technologies+Enthusiast" alt="Typing SVG" />
+
+---
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=100&lines=Hi%2C+I'm+Aryan+Takawane+⚡;Full-Stack+Developer+%26+AI+Engineer;React+%7C+Node.js+%7C+FastAPI+%7C+Python;Bridging+Modern+Web+with+Intelligent+Systems" alt="Typing SVG" />
+![Profile Views](https://komarev.com/ghpvc/?username=aryantakawane&style=flat-square&color=00F7FF)
 
-<p align="center">
-  <b>🚀 Full-Stack Developer & AI Systems Engineer | 🎓 B.Tech in AI & Data Science | 🌐 Open-Source Enthusiast</b>
-</p>
-
-[![Status](https://img.shields.io/badge/STATUS-SHIPPING%20PRODUCTION-00F7FF?style=for-the-badge&labelColor=0D1117&color=7F00FF)](https://github.com/aryantakawane)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryantakawane-813442419)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00F7FF)](https://aryantakawane.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantakawane100@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-takawane)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantakawane100@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://aryantakawane.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryantakawane)
 
 </div>
 
 ---
 
-### ⚡ `> whoami --verbose`
+## 🎨 About Me
 
-I'm a full-stack engineer and AI specialist based in **Pune, India**. I architect and ship production web platforms end-to-end—spanning clean database design, high-throughput REST APIs, responsive component architectures, and applied AI systems (LLMs, RAG pipelines, LangChain).
+```python
+class AryantTakawane:
+    role = "Full Stack Developer | Web Technologies Enthusiast"
+    education = "B.Tech in Computer Science (Pursuing) | Self-Taught Developer"
+    location = "Pune, India 🇮🇳"
 
-Whether building scalable full-stack applications, enterprise headless CMS integrations, or cognitive AI agents, my philosophy is simple: **write clean, maintainable code, adhere strictly to engineering standards, and automate repetitive workflows.**
+    focus = [
+        "React.js & Modern JavaScript",
+        "Node.js & Express.js Backend Development",
+        "MongoDB & Database Design",
+        "Building Production-Grade Full Stack Applications",
+        "Web Technologies & Performance Optimization",
+        "Open Source Contribution"
+    ]
 
-```javascript
-// ✦ developer.config.js — neural runtime profile
-const engineer = {
-  name:        "Aryan Takawane",
-  location:    "Pune, Maharashtra, India 🇮🇳",
-  degree:      "B.Tech in Artificial Intelligence & Data Science",
-  role:        "Full-Stack Developer & AI Systems Engineer",
-  
-  stack: {
-    core:       ["JavaScript (ES6+)", "Python", "PHP", "TypeScript", "SQL"],
-    frontend:   ["React.js", "Next.js", "Tailwind CSS", "Gutenberg"],
-    backend:    ["Node.js", "Express.js", "FastAPI", "Django", "REST APIs"],
-    ai_ml:      ["LLMs", "RAG Pipelines", "LangChain / LangGraph", "AI Agents", "NLP"],
-    databases:  ["PostgreSQL", "MongoDB", "MySQL", "Supabase", "Redis"],
-    devops:     ["AWS", "Docker", "Git / GitHub Actions", "CI/CD Pipelines"]
-  },
-
-  philosophy:   "I don't just build pages — I engineer reliable, high-performance web systems.",
-  uptime:       "99.99% curiosity ☕"
-};
-
-export default engineer;
+    philosophy = "I don't just build websites - I build complete web systems that work seamlessly from frontend to backend."
 ```
 
 ---
 
-## 🛠️ Tech Arsenal
+## 💻 Development Stack
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
-  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/WordPress-0D1117?style=for-the-badge&logo=wordpress&logoColor=00F7FF" alt="WordPress" />
-</p>
-
-### 🤖 Applied AI & Intelligence
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM_Integrations-0D1117?style=for-the-badge&logo=openai&logoColor=00F7FF" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0D1117?style=for-the-badge&logo=langchain&logoColor=FF00E6" alt="RAG" />
-  <img src="https://img.shields.io/badge/LangChain_%2F_LangGraph-0D1117?style=for-the-badge&color=7F00FF" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Vector_Search_%26_Embeddings-0D1117?style=for-the-badge&color=00F7FF" alt="Vector Search" />
-  <img src="https://img.shields.io/badge/Autonomous_AI_Agents-0D1117?style=for-the-badge&color=FF00E6" alt="AI Agents" />
-</p>
-
-### ☁️ Databases & Cloud DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Redis-0D1117?style=for-the-badge&logo=redis&logoColor=DC382D" alt="Redis" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-## 🛰️ Engineering & Build Pipeline
-
-```mermaid
-flowchart LR
-    A([🌍 Real-World Problem]) --> B{{🧠 System Architecture & AI}}
-    B --> C[💻 Full-Stack Development]
-    C --> D[🧪 Automated Tests & Linters]
-    D --> E[⚙️ CI/CD & Docker Pipeline]
-    E --> F[(☁️ Cloud Deployment)]
-    F --> G([🚀 Production Web System])
-    G -. Feedback Loop .-> A
-
-    classDef cyan fill:#0D1117,stroke:#00F7FF,stroke-width:2px,color:#FFFFFF;
-    classDef magenta fill:#0D1117,stroke:#FF00E6,stroke-width:2px,color:#FFFFFF;
-    classDef purple fill:#0D1117,stroke:#7F00FF,stroke-width:2px,color:#FFFFFF;
-    class A,G cyan;
-    B,E magenta;
-    C,D,F purple;
-```
-
----
-
-## 🚀 Key Production & Featured Projects
-
-| Project | Focus & Highlights | Stack |
-| :--- | :--- | :--- |
-| **Shreenivas Platform** *(Production)* | Solely built & deployed an end-to-end spiritual service platform with user authentication, appointment scheduling, payment handling, and admin control panels. | React, Node.js, REST APIs, Cloud Deployment |
-| **D2C E-Commerce Engine** | Full-scale e-commerce platform built from scratch with inventory control, cart & wishlist, secure checkout, reviews, and admin analytics dashboard. | Full-Stack Architecture, Node.js, MongoDB |
-| **[wp-decoupled](https://github.com/aryantakawane/wp-decoupled)** | Modern decoupled / headless WordPress architecture consuming custom REST APIs with high-performance React frontends. | React, WordPress REST API, JavaScript |
-| **[wp-rest-playground](https://github.com/aryantakawane/wp-rest-playground)** | Developer testing ground for custom WordPress REST endpoints, Custom Post Types (CPTs), taxonomy queries, and security nonces. | PHP, WordPress Plugin API |
-| **[todo-app-fullstack](https://github.com/aryantakawane/todo-app-fullstack)** | Production-grade web app featuring JWT authentication, state management, and optimized database queries. | Node.js, Express, React, MongoDB |
-| **[movie-search-app](https://github.com/aryantakawane/movie-search-app)** | Dynamic search application with real-time API integrations, responsive UX, and client-side caching. | React, External REST APIs, CSS3 |
-
----
-
-## 🎯 Active Directives & Standards
-
-- 🧠 **Applied AI in Web Platforms:** Integrating RAG document chat, LLM tool-calling agents, and semantic vector search into practical web applications.
-- ⚡ **Performance & Core Web Vitals:** Minimizing layout shifts, server-side response times, and bundle sizes for lightning-fast user interactions.
-- 🛡️ **Enterprise Security Standards:** Enforcing OWASP principles, strict data sanitization, parameterized queries, and secure session management.
-- ♿ **Inclusive Accessibility:** Building component libraries compliant with **WCAG 2.1 AA** standards.
-
----
-
-## 📊 GitHub Analytics
+## 🌐 Social Media & Connect
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryantakawane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryantakawane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantakawane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-📫 **Let's connect & collaborate:** [LinkedIn](https://linkedin.com/in/aryantakawane-813442419) • [Email](mailto:aryantakawane100@gmail.com) • [Portfolio](https://aryantakawane.vercel.app)
-
-*"Code is poetry written for machines, but engineered for humans."*
-
-⭐ **If you find my projects helpful, feel free to drop a star!**
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/aryantakawane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-takawane)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aryantakawane)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@aryantakawane)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://aryantakawane.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryantakawane100@gmail.com)
 
 </div>
+
+## 🚀 What I Build
+
+I engineer **full-stack web applications** using cutting-edge technologies. I focus on creating seamless user experiences with robust backend architecture and beautiful, responsive frontend interfaces. My passion lies in solving real-world problems through clean, efficient code and continuous learning.
+
+### 💻 **Frontend Stack**
+- React.js, JavaScript (ES6+), HTML5, CSS3
+- - Tailwind CSS, Component Design Patterns
+  - - State Management (Redux, Context API)
+   
+    - ### 🛠️ **Backend Stack**
+    - - Node.js & Express.js Framework
+      - - RESTful API Design & Development
+        - - Authentication & Authorization (JWT)
+         
+          - ### 🗄️ **Database & Tools**
+          - - MongoDB - Database Design & Optimization
+            - - Git & GitHub - Version Control
+              - - Postman, VS Code, Webpack
+               
+                - ### 📚 **Currently Learning**
+                - - Advanced React Patterns & Performance
+                  - - System Design & Scalability
+                    - - Cloud Deployment (AWS, Vercel)
+                     
+                      - ---
+
+                      ## 📊 GitHub Stats
+
+                      <div align="center">
+
+                        ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aryantakawane&theme=tokyonight&hide_border=true)
+
+                      ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryantakawane&layout=compact&theme=tokyonight&hide_border=true)
+
+                      </div>
+
+                      ---
+
+                      ## 🌐 Let's Connect
+
+                      <div align="center">
+
+                      **I'm always open to collaborations, learning opportunities, and building amazing projects together!**
+
+                      📧 **Email:** aryantakawane100@gmail.com
+                      🔗 **LinkedIn:** [linkedin.com/in/aryan-takawane](https://linkedin.com/in/aryan-takawane)
+                      🐦 **Twitter:** [@aryantakawane](https://twitter.com/aryantakawane)
+                      🌍 **Portfolio:** [aryantakawane.vercel.app](https://aryantakawane.vercel.app)
+
+                      ---
+
+                      <i>"Code is poetry written for machines, but it should be read by humans."</i>
+
+                      ⭐ **If you like my work, consider giving a star to my repositories!**
+
+                      </div>
