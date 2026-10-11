@@ -45,10 +45,96 @@
 
 ### `/// [J.A.R.V.I.S. SYSTEM_DIAGNOSTICS]`
 
-```ansi
-[1;36m[SYSTEM BOOT][0m J.A.R.V.I.S. Neural Core v8.5 [Online]
-[1;33m[PILOT IDENT][0m Aryan Takawane (@aryantakawane)
-[1;32m[COORDINATES][0m Pune, Maharashtra, India [18.5204° N, 73.8567° E]
-[1;35m[REACTOR PWR][0m 3.2 Gigajoules / Second — Stable Cold Fusion
-[1;36m[DIRECTIVES] [0m Full-Stack Architecture • API Orchestration • AI Integration
-[1;31m[STATUS]     [0m All systems green. Ready for next mission briefing.
+```bash
+[SYSTEM BOOT]  J.A.R.V.I.S. Neural Core v8.5 [Online]
+[PILOT IDENT]  Aryan Takawane (@aryantakawane)
+[COORDINATES]  Pune, Maharashtra, India [18.5204° N, 73.8567° E]
+[REACTOR PWR]  3.2 Gigajoules / Second — Stable Cold Fusion
+[DIRECTIVES]   Full-Stack Architecture • API Orchestration • AI Integration
+[STATUS]       All systems green. Ready for next mission briefing.
+```
+
+> *"Jarvis, sometimes you gotta run before you can walk."*  
+> — **Tony Stark**
+
+---
+
+### `/// [SUIT_SUBSYSTEMS & ARMAMENT]`
+
+<table>
+  <thead>
+    <tr>
+      <th width="30%">Suit Module</th>
+      <th width="50%">Tech Stack / Weaponry</th>
+      <th width="20%">Telemetry</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>👁️ Heads-Up Display (HUD)</b><br/><sub>Frontend Architecture</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+      </td>
+      <td><code>CALIBRATED [99%]</code></td>
+    </tr>
+    <tr>
+      <td><b>⚡ Arc Reactor Engine</b><br/><sub>Backend & Microservices</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_APIs-00599C?style=flat" />
+      </td>
+      <td><code>OVERCLOCKED [3.2 GW]</code></td>
+    </tr>
+    <tr>
+      <td><b>💾 Data Vault</b><br/><sub>Persistent Memory</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+      </td>
+      <td><code>ONLINE & INDEXED</code></td>
+    </tr>
+    <tr>
+      <td><b>🛡️ Nanotech Armor Plating</b><br/><sub>DevOps & Deployment</sub></td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+      </td>
+      <td><code>DEFENSES UP [100%]</code></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### `/// [PROJECT_ARSENAL // MARK SUITS]`
+
+```
+◈ [MARK I]   ─── PROTOTYPE LABS      : Early architectural experiments & CLI tools
+◈ [MARK VII] ─── HIGH VELOCITY APPS  : Full-stack dynamic web systems built on Next.js & Node
+◈ [MARK L]   ─── RESILIENT APIS      : Scalable microservices & fault-tolerant database clusters
+◈ [MARK 85]  ─── AI NEURAL SYSTEMS   : Intelligent integrations, automated pipelines & modern stacks
+```
+
+---
+
+### `/// [STARK_MISSION_METRICS]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryantakawane&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=9eeaf9&icon_color=00F5D4" alt="Stark Telemetry" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryantakawane&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=9eeaf9" alt="Module Usage" width="48%" />
+</div>
+
+<br/>
+
+<!-- ANIMATED ARC REACTOR FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=50&section=footer&text=STARK%20INDUSTRIES%20%E2%80%A2%20ALL%20PROTOCOLS%20ENCRYPTED%20%E2%80%A2%20DISMISS%20HUD&fontSize=14&fontColor=00E5FF" width="100%" />
+</div>
